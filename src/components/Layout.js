@@ -18,7 +18,7 @@ const Layout = ({ title, children }) => {
             </Link>
             <div>
               <Link href="/cart" className="p-2 text-grey-light">
-                Card
+                Carrinho
               </Link>
               <Link href="/login" className="p-2 text-grey-light">
                 Login
@@ -27,7 +27,7 @@ const Layout = ({ title, children }) => {
           </nav>
         </header>
         <main className="container m-auto mt-4 px-5">{children}</main>
-        <footer className="flex h-10 justify-center items-center shadow-inner bg-belge-milk">
+        <footer className="flex h-12 justify-center items-center shadow-2xl bg-brow-coffee">
           <p>Copyright @ 2023 ArtW by Tuane Mendes</p>
         </footer>
       </div>

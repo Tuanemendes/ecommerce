@@ -18,6 +18,10 @@ module.exports = {
       'belge-milk': '#DFD7BF',
       'belge-light': '#F2EAD3',
       'grey-light': '#F5F5F5',
+      'brow-ligth':'#956F4B',
+      'brow-ligth2':'#B78E58',
+
+      
     },
   },
   plugins: [],

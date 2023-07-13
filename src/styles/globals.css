@@ -19,3 +19,11 @@
 body {
   color: rgb(var(--foreground-rgb));
 }
+
+.card{
+  @apply mb-5 block rounded-lg border border-grey-light shadow-md ;
+}
+
+.primary-button{
+  @apply rounded bg-belge-milk py-2 px-4 shadow outline-none hover:bg-brow-ligth active:bg-brow-ligth2 ;
+}

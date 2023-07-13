@@ -32,6 +32,23 @@
 <p>
 
 </p>
+<p>
+Personalização de paleta de cores no arquivo tailwind.config
+ link para documentação >https://tailwindcss.com/docs/customizing-colors#customizing
+
+</p>
+
+```
+module.exports = {
+  theme: {
+    colors: {
+      // Configure your color palette here
+      'white': '#ffffff',
+    }
+  }
+}
+
+```
 
 <h2>🛠Desenvolvido Por</h2>
 
