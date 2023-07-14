@@ -36,6 +36,9 @@
 Personalização de paleta de cores no arquivo tailwind.config
  link para documentação >https://tailwindcss.com/docs/customizing-colors#customizing
 
+
+ npm i -D @types/react -> dependencia de tipos
+
 </p>
 
 ```
